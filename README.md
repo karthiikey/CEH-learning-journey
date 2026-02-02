@@ -6,5 +6,5 @@ This repository contains structured notes, concepts, and practical labs that I a
 
 ## Repository Structure 
 - [Notes](https://github.com/karthiikey/CEH-learning-journey/blob/8087327297309720e567acbb94e80b48c9a78ea2/Notes).
-- Tools and Comand.
+- [Tools and Comand](https://github.com/karthiikey/CEH-learning-journey/blob/8087327297309720e567acbb94e80b48c9a78ea2/Tools%20%26%20Commands).
 - Footprinting and Reconnaissance.
