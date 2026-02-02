@@ -11,3 +11,6 @@ This repository contains structured notes, concepts, and practical labs that I a
 
 ## Disclaimer
 > This repository is for educational purposes only. All techniques are practiced in controlled lab environments. No illegal activity is encouraged or supported.
+
+#3 Status
+> Currently learning and updating this repository regularly.
