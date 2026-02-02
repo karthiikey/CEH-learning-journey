@@ -1,2 +1,2 @@
 # CEH-learning-journey
-Documenting my CEH learning journey with structured notes, concepts &amp; practical labs 
+A repository documenting my Certified Ethical Hacker (CEH) learning journey with notes and hands-on labs.
